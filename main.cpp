@@ -1,7 +1,7 @@
 /*
 * Author: Julian Gonzalez
 * Program: Calculate currency
-* Date: 01/17/2014
+* Date: 01/17/2014/
 */
 
 //LibrarIes
